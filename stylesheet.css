@@ -162,10 +162,14 @@
   .heading h3 {
     font-weight: normal;
   }
+
+  .heading li{
+    list-style: none;
+  }
   
   .message-wrapper {
     border-bottom: 1px solid #eee;
-    padding-bottom: 80px;
+    padding-bottom: 10px;
     text-align: center;
   }
   
